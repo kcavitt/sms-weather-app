@@ -23,7 +23,7 @@ cd weather-sms-bot
 ### 2. Run the application
 ```bash
 pip install -r requirements.py
-python app.py
+python main.py
 ```
 
 ### 3. Expose the webhook
