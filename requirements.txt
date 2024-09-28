@@ -1,0 +1,4 @@
+vonage
+flask
+requests
+python-dotenv
