@@ -37,4 +37,4 @@ Docs: https://developer.vonage.com/en/api/sms?source=messaging
 View SMS messages at Logs -> SMS Logs
 ** You need to set the webhook to your ngrok url. **
 API Settings -> Inbound SMS hooks
-Set it to: https://<your_ngrok_url>/sms
+Set it to: https://<your_ngrok_url>/sms# sms-weather-app
